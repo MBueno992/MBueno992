@@ -10,7 +10,7 @@ Mi nombre es **Marta**.
 
 ### Sobre mí:
 
-🌱 Actualmente estoy estudiando desarrollo web en [Adalab]().
+🌱 EH realizado un Bootcamp de programación web en [Adalab]() y actualmente tengo pendiente sacar un curso superior de programación en Python con Deusto Formación.
 
 💼 Busco oportunidades para colaborar en otros proyectos y aportar mi granito de arena a la vez de aprender de otras personas. 
 
@@ -21,7 +21,7 @@ Mi nombre es **Marta**.
 
 👩🏻‍💻 **_Lenguajes y tecnologías  de programación_**: 
 
- HTML, CSS, SASS, JavaScript, ReactJS, NodeJS, MySQL (en proceso de aprendizaje) 
+ HTML5, CSS3, SASS, JavaScript, ReactJS, NodeJS, Express, MySQL.
 
 **_Alguno de mis proyectos_**:
 - 🖖 [**Sheldon's Game**](https://mbueno992.github.io/sheldon-s-Game/)
