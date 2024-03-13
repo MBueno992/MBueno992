@@ -10,7 +10,7 @@ Mi nombre es **Marta**.
 
 ### Sobre mí:
 
-🌱 EH realizado un Bootcamp de programación web en [Adalab]() y actualmente tengo pendiente sacar un curso superior de programación en Python con Deusto Formación.
+🌱 He realizado un Bootcamp de programación web en [Adalab]() y actualmente tengo pendiente sacar un curso superior de programación en Python con Deusto Formación.
 
 💼 Busco oportunidades para colaborar en otros proyectos y aportar mi granito de arena a la vez de aprender de otras personas. 
 
