@@ -2,7 +2,7 @@
 # ¡Hola mundo! 👋
 
 
-## Futura Junior Full Stack Developer
+## Junior Full Stack Developer
 
 Mi nombre es **Marta**.
 
@@ -10,7 +10,7 @@ Mi nombre es **Marta**.
 
 ### Sobre mí:
 
-🌱 He realizado un Bootcamp de programación web en [Adalab]() y actualmente tengo pendiente sacar un curso superior de programación en Python con Deusto Formación.
+🌱 He realizado un Bootcamp de programación web en [Adalab]() donde he salido con el certificado de Junior Full Stack Developer, aunque la parte que más eh trabajado y desarrollado ha sido la de Front-end que es la que más me ha gustado, y actualmente tengo pendiente sacar un curso superior de programación en Python con Deusto Formación.
 
 💼 Busco oportunidades para colaborar en otros proyectos y aportar mi granito de arena a la vez de aprender de otras personas. 
 
